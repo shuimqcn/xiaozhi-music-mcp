@@ -2,7 +2,7 @@
   "name": "免费音乐MCP服务器",
   "description": "为小智AI音响提供免费音乐搜索、播放控制、音量调节、播放列表管理等功能",
   "version": "1.0.0",
-  "endpoint_url": "ws://xiaozhi-music-mcp-production-15c4.up.railway.app",
+  "endpoint_url": "ws://xiaozhi-music-mcp.up.railway.app:8765",
   "transport": "websocket",
   "tools": [
     {
