@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "transport": {
     "type": "websocket",
-    "endpoint_url": "ws://xiaozhi-music-mcp-production-15c4.up.railway.app"
+    "endpoint_url": "ws://xiaozhi-music-mcp.up.railway.app:8765"
   },
   "tools": [
     {
